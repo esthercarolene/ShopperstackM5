@@ -10,5 +10,7 @@ public void TC_add__001(){
 	String Name = System.getProperty("name");
 	System.out.println(Name);
 	System.out.println(Name);
+	System.out.println("esther");
+	System.out.println("carolene");
 
 }}
