@@ -7,7 +7,6 @@
         <methods>
           <include name="Tc_EndToEndCashOnDelivery_Test"/>
           <include name="Tc_AddAddress_001_Test"/>
-          <include name="EndToEnd_NetBanikng"/>
           <include name="quitBrowser"/>
           <include name="logoutFromApplication"/>
           <include name="loginToApplication"/>
